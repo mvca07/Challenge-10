@@ -1,6 +1,5 @@
 # Challenge-10
 
-# Challenge-09
 Employee Tracker
   
   ## Description
